@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+   _   _                _             _
+  | | / /              | |           | |
+  | |/ /  ____  _    _ | |  ___  ____| |
+  | | <  /  _  \\ \ / /| | / _ \(  __` |
+  | |\ \ | (_| | \ V / | ||  __/| |  | |
+  |_| \_\\___,_|  \ /  |_| \___||_|  |_|
+                 /_/
+
 <!--
 **Kayleh/kayleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
