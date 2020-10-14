@@ -20,6 +20,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" /> </p>
 
+- 📝 I regulary write articles on [https://kayleh.top](https://kayleh.top)
+
+- 📄 Know about my experiences [https://kayleh.top/resume](https://kayleh.top/resume)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kayleh" height="30" width="40" /></a>
@@ -29,6 +37,7 @@
 <a href="https://instagram.com/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kayleh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kayleh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kayleh" height="30" width="40" /></a>
+<a href="/https://kayleh.top/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kayleh.top/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
