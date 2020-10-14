@@ -26,6 +26,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ubuntu.deb安装包](https://kayleh.top/deb/)
+- [微分方程](https://kayleh.top/differential-equation/)
+- [级数](https://kayleh.top/series/)
+- [二重积分](https://kayleh.top/double-integral/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
