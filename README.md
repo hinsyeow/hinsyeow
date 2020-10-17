@@ -41,7 +41,7 @@
 <a href="https://instagram.com/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kayleh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kayleh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kayleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kayleh" height="30" width="40" /></a>
-<a href="/https://kayleh.top/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kayleh.top/atom.xml" height="30" width="40" /></a>
+<a href="https://kayleh.top/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kayleh.top/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +49,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&theme=dracula" alt="kayleh" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=HTML,TSQL,javascript" alt="kayleh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=HTML,TSQL,javascript,css" alt="kayleh" /></p>
 
 
 
