@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ubuntu.deb安装包](https://kayleh.top/deb/)
-- [微分方程](https://kayleh.top/differential-equation/)
-- [级数](https://kayleh.top/series/)
-- [二重积分](https://kayleh.top/double-integral/)
+- [Good use of pointers](https://kayleh.top/Good-use-of-pointers/)
+- [realize modular programming with functions](https://kayleh.top/realize-modular-programming-with-functions/)
+- [use-arrays-to-process-batch-data](https://kayleh.top/use-arrays-to-process-batch-data/)
+- [cycle structure programming](https://kayleh.top/cycle-structure-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
