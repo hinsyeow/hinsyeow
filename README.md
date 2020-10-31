@@ -15,7 +15,7 @@
                `--`---'          \  ' ;             `----'
                                   `--`
 ```
-<h1 align="center">Hi 👋, I'm Kayleh</h1>
+<h1 align="center">Hi 👋, I'm Kayleh</h1> 
 <h3 align="center">A developer</h3>
 
 <p align="left">
@@ -112,7 +112,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
