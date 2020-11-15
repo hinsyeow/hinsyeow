@@ -101,7 +101,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=default&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayleh)](https://github.com/anuraghazra/github-readme-stats)-->
 
