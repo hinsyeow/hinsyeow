@@ -32,7 +32,7 @@
 - [users create data types themselves](https://kayleh.top/users-create-data-types-themselves/)
 - [Good use of pointers](https://kayleh.top/Good-use-of-pointers/)
 - [realize modular programming with functions](https://kayleh.top/realize-modular-programming-with-functions/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
