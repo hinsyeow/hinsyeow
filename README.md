@@ -28,7 +28,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ubuntu固定IP设置方法](https://kayleh.top/null/)
+- [ubuntu固定IP设置方法](https://kayleh.top/ubuntu-set-ip/)
 - [file input and output](https://kayleh.top/file-input-and-output/)
 - [users create data types themselves](https://kayleh.top/users-create-data-types-themselves/)
 - [Good use of pointers](https://kayleh.top/Good-use-of-pointers/)
