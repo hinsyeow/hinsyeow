@@ -15,8 +15,8 @@
                `--`---'          \  ' ;             `----'
                                   `--`
 ```
-<h1 align="center">Hi 👋, I'm Kayleh</h1>
-<h3 align="center">A developer</h3>
+<!--<h1 align="center">Hi 👋, I'm Kayleh</h1>-->
+<!--<h3 align="center">A developer</h3>-->
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" /> 
@@ -34,6 +34,7 @@
 - [Good use of pointers](https://kayleh.top/Good-use-of-pointers/)
 <!-- BLOG-POST-LIST:END --> 
 
+<!--
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/Kayleh" target="blank">
@@ -68,6 +69,7 @@
 </a>
 
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -101,7 +103,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>-->
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayleh)](https://github.com/anuraghazra/github-readme-stats)-->
 
