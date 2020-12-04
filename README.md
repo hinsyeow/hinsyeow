@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BIO阻塞模型](https://kayleh.top/BIO-blocking-model/)
+- [I/O模型](https://kayleh.top/IO-model/)
+- [Java网络编程](https://kayleh.top/Java-network-programming/)
 - [ubuntu固定IP设置方法](https://kayleh.top/ubuntu-set-ip/)
-- [file input and output](https://kayleh.top/file-input-and-output/)
-- [users create data types themselves](https://kayleh.top/users-create-data-types-themselves/)
-- [Good use of pointers](https://kayleh.top/Good-use-of-pointers/)
 <!-- BLOG-POST-LIST:END --> 
 
 <!--
