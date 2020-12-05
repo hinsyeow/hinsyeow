@@ -96,10 +96,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AIO模型](https://kayleh.top/AIO-blocking-model/)
+- [NIO模型](https://kayleh.top/NIO-blocking-model/)
 - [BIO阻塞模型](https://kayleh.top/BIO-blocking-model/)
 - [I/O模型](https://kayleh.top/IO-model/)
-- [Java网络编程](https://kayleh.top/Java-network-programming/)
-- [ubuntu固定IP设置方法](https://kayleh.top/ubuntu-set-ip/)
 <!-- BLOG-POST-LIST:END --> 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
