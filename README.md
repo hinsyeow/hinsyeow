@@ -1,4 +1,7 @@
 <!--### Hi there 👋-->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" /> 
+</p>
 ```
          ,-.                              ,--,                 ,---,
      ,--/ /|                            ,--.'|               ,--.' |
@@ -18,21 +21,10 @@
 <!--<h1 align="center">Hi 👋, I'm Kayleh</h1>-->
 <!--<h3 align="center">A developer</h3>-->
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" /> 
-</p>
-
 - 📝 I regulary write articles on [https://kayleh.top](https://kayleh.top)
-
 - 📄 Know about my experiences [https://kayleh.top/resume](https://kayleh.top/resume)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [BIO阻塞模型](https://kayleh.top/BIO-blocking-model/)
-- [I/O模型](https://kayleh.top/IO-model/)
-- [Java网络编程](https://kayleh.top/Java-network-programming/)
-- [ubuntu固定IP设置方法](https://kayleh.top/ubuntu-set-ip/)
-<!-- BLOG-POST-LIST:END --> 
+
 
 <!--
 <p align="left">
@@ -101,8 +93,15 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [BIO阻塞模型](https://kayleh.top/BIO-blocking-model/)
+- [I/O模型](https://kayleh.top/IO-model/)
+- [Java网络编程](https://kayleh.top/Java-network-programming/)
+- [ubuntu固定IP设置方法](https://kayleh.top/ubuntu-set-ip/)
+<!-- BLOG-POST-LIST:END --> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>-->
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayleh)](https://github.com/anuraghazra/github-readme-stats)-->
