@@ -96,10 +96,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Native方法?](https://kayleh.top/Native-method/)
+- [沙箱安全机制](https://kayleh.top/Sandbox-security-mechanism/)
+- [JVM-类加载器和双亲委派机制](https://kayleh.top/JVM-classloader-and-parent-delegation-mechanism/)
 - [Java高性能高并发秒杀系统(10)](https://kayleh.top/Java-high-performance-and-high-concurrency-spike-system-10/)
-- [Java高性能高并发秒杀系统(8)](https://kayleh.top/Java-high-performance-and-high-concurrency-spike-system-8/)
-- [Java高性能高并发秒杀系统(9)](https://kayleh.top/Java-high-performance-and-high-concurrency-spike-system-9/)
-- [Java高性能高并发秒杀系统(6)](https://kayleh.top/Java-high-performance-and-high-concurrency-spike-system-6/)
 <!-- BLOG-POST-LIST:END --> 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
