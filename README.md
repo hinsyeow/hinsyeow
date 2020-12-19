@@ -96,9 +96,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [单点登录实现](https://kayleh.top/single-point-login/)
+- [单点登录实现](https://kayleh.top/singleton-login/)
 - [JMM内存模型](https://kayleh.top/jmm-memory-model/)
-- [JVM垃圾回收机制](https://kayleh.top/jvm-gc/)
+- [JVM垃圾回收机制](https://kayleh.top/null/)
 - [SpringMVC工作流程](https://kayleh.top/springmvc-work-stream/)
 <!-- BLOG-POST-LIST:END --> 
 
