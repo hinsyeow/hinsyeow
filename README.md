@@ -24,8 +24,7 @@
 <!--<h3 align="center">A developer</h3>-->
 
 - 📝 I regulary write articles on [https://kayleh.top](https://kayleh.top)
-- 📄 Know about my experiences [https://kayleh.top/resume](https://kayleh.top/resume)
-
+<!-- - 📄 Know about my experiences [https://kayleh.top/resume](https://kayleh.top/resume) -->
 
 
 <!--
@@ -97,13 +96,13 @@
  </p> -->
 
 
-<!-- ### Blogs posts -->
+<!-- ### Blogs posts (删除)-->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [BIO、NIO、AIO区别](https://kayleh.top/bionioaio/)
 - [浅谈IO](https://kayleh.top/IO/)
 - [堆外内存](https://kayleh.top/off-heap/)
 - [单点登录实现](https://kayleh.top/single-point-login/) -->
-<!-- BLOG-POST-LIST:END --> 
+<!-- BLOG-POST-LIST:END (删除)--> 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
