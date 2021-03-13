@@ -104,9 +104,7 @@
 <!-- - [单点登录实现](https://kayleh.top/single-point-login/) -->
 <!-- BLOG-POST-LIST:END (删除)--> 
 
-[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/default/0-profile-details.svg)
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
