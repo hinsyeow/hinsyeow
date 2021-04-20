@@ -20,7 +20,7 @@
 <!--<h1 align="center">Hi 👋, I'm Kayleh</h1>-->
 <!--<h3 align="center">A developer</h3>-->
 
-- 📝 I regulary write articles on [https://kayleh.top](https://kayleh.top)
+<!--- 📝 I regulary write articles on [https://kayleh.top](https://kayleh.top)-->
 <!-- - 📄 Know about my experiences [https://kayleh.top/resume](https://kayleh.top/resume) -->
 
 
