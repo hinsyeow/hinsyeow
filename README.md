@@ -102,6 +102,7 @@
 <!-- BLOG-POST-LIST:END (删除)--> 
 
 ![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/dracula/0-profile-details.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
