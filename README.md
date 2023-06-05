@@ -1,7 +1,14 @@
 <!--### Hi there 👋-->
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" />  
+<!-- <a href="https://www.kayleh.top/" rel="nofollow">
+   <img src="https://github.com/Kayleh/kayleh.github.io2/actions/workflows/auto-deploy.yml/badge.svg" alt="Blog deploy" >
+</a> -->
 </p>
+<p align="right">
+</p>
+
+![Blog deploy](https://github.com/Kayleh/kayleh.github.io2/actions/workflows/auto-deploy.yml/badge.svg)
 
 ```
         ,-.                              ,--,                 ,---,
@@ -96,22 +103,8 @@
  </p> -->
 
 
-<!-- ### Blogs posts (删除)-->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [BIO、NIO、AIO区别](https://kayleh.top/bionioaio/) -->
-<!-- - [浅谈IO](https://kayleh.top/IO/) -->
-<!-- - [堆外内存](https://kayleh.top/off-heap/) -->
-<!-- - [单点登录实现](https://kayleh.top/single-point-login/) -->
-<!-- BLOG-POST-LIST:END (删除)--> 
-
 ![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/dracula/0-profile-details.svg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=HTML,TSQL,css,less,Makefile,scss,batchfile,cmake" alt="kayleh" /></p>
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayleh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs,contribs" alt="kayleh" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleh&layout=compact&hide=javascript,HTML,TSQL,css" alt="kayleh" /></p>
-
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayleh)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **Kayleh/kayleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
