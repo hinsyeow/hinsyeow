@@ -10,6 +10,7 @@
 
 ![Blog deploy](https://github.com/Kayleh/kayleh.github.io2/actions/workflows/auto-deploy.yml/badge.svg)
 
+<!--
 ```
         ,-.                              ,--,                 ,---,
     ,--/ /|                            ,--.'|               ,--.' |
@@ -26,6 +27,12 @@
               `--`---'          \  ' ;             `----'
                                  `--`
 ```
+-->
+
+<a href="https://github.com/Kayleh">
+<img alt="Social banner for Sanonz" src="/about/about.svg"/>
+</a>
+
  
 <!--<h1 align="center">Hi 👋, I'm Kayleh</h1>-->
 <!--<h3 align="center">A developer</h3>-->
