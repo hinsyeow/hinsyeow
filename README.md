@@ -1,14 +1,16 @@
 <!--### Hi there 👋-->
-<p align="left">
+<!-- <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kayleh&label=Profile%20views&color=0e75b6&style=flat" alt="kayleh" />  
-<!-- <a href="https://www.kayleh.top/" rel="nofollow">
+ <a href="https://www.kayleh.top/" rel="nofollow">
    <img src="https://github.com/Kayleh/kayleh.github.io2/actions/workflows/auto-deploy.yml/badge.svg" alt="Blog deploy" >
-</a> -->
+</a> 
 </p>
 <p align="right">
 </p>
 
 ![Blog deploy](https://github.com/Kayleh/kayleh.github.io2/actions/workflows/auto-deploy.yml/badge.svg)
+ -->
+
 
 <!--
 ```
@@ -29,11 +31,12 @@
 ```
 -->
 
+<!--
 <a href="https://github.com/Kayleh">
 <img alt="Social banner for Sanonz" src="/about/about.svg"/>
 </a>
+-->
 
- 
 <!--<h1 align="center">Hi 👋, I'm Kayleh</h1>-->
 <!--<h3 align="center">A developer</h3>-->
 
