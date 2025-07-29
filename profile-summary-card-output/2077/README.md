@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./2-most-commit-language.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/Kayleh/kayleh/master/profile-summary-card-output/2077/1-repos-per-language.svg)
 ```
 
     
