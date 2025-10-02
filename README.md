@@ -16,7 +16,7 @@
                                  `--`
 ```
 
-# 👋 Hi, I'm Kayleh!
+# 👋 Hi, I'm hins Yeow!
 
 Welcome to my GitHub profile!  
 I'm a passionate **Python/Django** and **Java/Spring** developer, always eager to learn and build impactful projects.
@@ -48,8 +48,8 @@ I'm a passionate **Python/Django** and **Java/Spring** developer, always eager t
 
 ## 🌐 Find Me Online
 
-- 🌍 [Personal Website](https://www.kayleh.top)
-- 📫 [Email](mailto:website@kayleh.top)
+- 🌍 [Personal Website](https://www.hinsyeow.org)
+- 📫 [Email](mailto:hinsyeow@outlook.com)
 
 ---
 
